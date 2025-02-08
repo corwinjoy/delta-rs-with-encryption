@@ -1,0 +1,12 @@
+[submodule "arrow-rs"]
+	path = arrow-rs
+	url = git@github.com:rok/arrow-rs.git
+[submodule "delta-rs"]
+	path = delta-rs
+	url = git@github.com:corwinjoy/delta-rs.git
+[submodule "datafusion"]
+	path = datafusion
+	url = git@github.com:corwinjoy/datafusion.git
+[submodule "delta-kernel-rs"]
+	path = delta-kernel-rs
+	url = git@github.com:corwinjoy/delta-kernel-rs.git
